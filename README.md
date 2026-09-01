@@ -1,4 +1,3 @@
-# payload-delivery-sfx-binding-lab
 # Advanced Payload Delivery Mechanisms: Creation, SFX Binding, and Execution Analysis in an Isolated Lab Environment
 
 > **Status:** Completed — Academic / Internship Practical
